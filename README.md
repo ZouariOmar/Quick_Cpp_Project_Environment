@@ -9,7 +9,7 @@ This template provides a basic structure for starting a quick C++ project. It in
 ## Project Structure
 
 ```plaintext
-.Quick C++ Project Environment
+.Quick_Cpp_Project_Environment
 ├── bin
 │   ├── debug
 │   │   └── debug
@@ -39,7 +39,7 @@ This template provides a basic structure for starting a quick C++ project. It in
 │   └── src
 │       ├── lib.cpp
 │       └── main.cpp
-├── Quick C++ Project Environment.code-workspace
+├── Quick_Cpp_Project_Environment.code-workspace
 ├── README.md
 └── run.sh
 
