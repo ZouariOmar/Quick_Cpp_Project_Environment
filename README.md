@@ -10,40 +10,19 @@ This template provides a basic structure for starting a quick C++ project. It in
 
 ```plaintext
 .Quick_Cpp_Project_Environment
-├── bin
-│   ├── debug
-│   │   └── debug
-│   ├── out
-│   │   └── out
-│   ├── release
-│   │   └── release
-│   └── test
-│       └── test
-├── doc
-│   ├── pdf
-│   │   └── NONE.pdf
-│   └── TODO.md
-├── download
-│   └── download
+├── inc
+│   └── inc.hpp
 ├── LICENSE
-├── pkg
-│   ├── C-Cpp_pkg.cmd
-│   └── C-Cpp_pkg.sh
-├── project
-│   ├── doc
-│   │   └── doc
-│   ├── inc
-│   │   └── inc.hpp
-│   ├── res
-│   │   └── res
-│   └── src
-│       ├── lib.cpp
-│       └── main.cpp
+├── out
+│   └── out
 ├── Quick_Cpp_Project_Environment.code-workspace
 ├── README.md
-└── run.sh
+├── run.sh
+└── src
+    ├── lib.cpp
+    └── main.cpp
 
-15 directories, 18 files
+4 directories, 8 files
 ```
 
 ## How to Use
@@ -53,7 +32,7 @@ To lunch the project on your Linux system, follow these steps:
 1. **Clone the Repository**:
 
     ```sh
-    git clone https://github.com/ZouariOmar/Run_C++_Project.git
+    git clone https://github.com/ZouariOmar/Quick_Cpp_Project_Environment.git
     ```
 
 2. **Navigate to the Directory**:
