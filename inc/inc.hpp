@@ -1,20 +1,22 @@
-/***************************************************
+/*****************************************************************************
  * @file      inc.hpp
  * @author    @ZouariOmar (zouariomar20@gmail.com)
  * @brief     IDE__VSC
  * @version   0.1
- * @date      2024-06-06
+ * @date      dd-mm-yyyy
+ * @link      NONE
  * @copyright Copyright (c) 2024
- ***************************************************/
+ *****************************************************************************/
 
 #ifndef __INC_H__
 #define __INC_H__
 
 //? ----------------------------- INCLUDE PROTOTYPE DECLARATION PART -----------------------------
-//* include std libs
+
+// Include std libs
 #include <iostream>
 
-//* use the stander workspace
+// Use the stander workspace
 using namespace std;
 
 /*
@@ -43,7 +45,7 @@ using namespace std;
  * struct...
  */
 
-//? ----------------------------- FUNCTIONS PROTOTYPE DECLARATION PART -----------------------------
+//? ------------------------- FUNCTIONS/CLASSES PROTOTYPE DECLARATION PART ------------------------
 /*
  * func...
  */
